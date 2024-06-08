@@ -17,7 +17,7 @@ Write.Print("""
 
   3] Hash type    <-_->  4] Md5 encrypt  <-_->
 
-  5] Md5 decrypt  [-_-] >>> @Ousmane team@Coder
+  5] Md5 decrypt  [-_-] >>> @Osmalie13 team@Coder
 
                 00] to exit\n""",Colors.white_to_red,interval=0.02)
 
@@ -162,7 +162,7 @@ elif choose == '00' or choose == '0':
     Write.Print("""
     Thank you for using my tools have a good daye
 
-    @Ousmane_team@Coder_Cyber_Security_Tools -_-
+    @Osmalie13_team@Coder_Cyber_Security_Tools -_-
     """,Colors.blue_to_white,interval=0.1)
     print(" ")
     print("\t\033[1;32m  ", time.ctime(),'\033[37m')
